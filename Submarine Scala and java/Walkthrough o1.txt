@@ -1,0 +1,16 @@
+﻿How to win (example)
+
+
+1. type ‘help’ (if needed)
+2. ‘get screwdriver’
+3. ‘go down’
+4. ‘get antenna’
+5. ‘go up’
+6. ‘go left’
+7. ‘get duct tape’
+8. ‘use antenna’
+9. ‘go up’
+10. ‘use duct tape’
+11. ‘go right’
+12. ‘use screwdriver’
+* At any point, type ‘hint’ or ‘where itemname’ for additional help.
