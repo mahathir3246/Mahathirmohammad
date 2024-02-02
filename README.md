@@ -1,2 +1,0 @@
-# Mahathirmohammad
-Projects
